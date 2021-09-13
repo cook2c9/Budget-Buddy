@@ -43,9 +43,17 @@ X...
 
 ## JSON Schema
 
-![Draft of JSON Schema for REST Endpoint](~link to image of Schema~)
+This is what we plan to export to another application:
 
-You can access our JSON Schema draft on [QuickType.io](~link to Schema draft~)
+>
+>{
+>    "TransactionID" : "integer",
+>    "Date" : "String",
+>    "DollarAmount" : "Decimal",
+>    "AccountName" : "String",
+>    "SpendingType" : "String"
+>}
+>
 
 ## A Product Backlog
 
