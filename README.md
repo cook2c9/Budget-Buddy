@@ -20,11 +20,14 @@ You can access our Storyboard [here](~link to actual storyboard~) at Invision.
 
 ## Functional Requirements
 
-Given, When, Then ...
+1. As a budgeter, I want to have all of my financial information in one place, so that I can make more informed decisions when considering purchases. 
+- **Given**: Transaction data is entered, **Given**: Credit card accounts and limits and bank accounts are defined, **When**: The user opens the overview tab, **Then**: The service will display balances across credit cards and bank accounts.
 
-Given, When, Then ...
+2. As an irresponsible spender at times, I want to be able to understand where my money is going, so that I can make adjustments when making purchases.
+- **Given**: Transaction data with spendingType is available, **When**: The user opens the spending breakdown tab, **Then**: The service will present charts/graphs that show how much is spent in each type.
 
-Given, When, Then ...
+3. As a budgeter, I want to be able to submit transaction data to keep track of it, so that I can have a better visibility of my budget across my accounts and cards.
+- **Given**: User has the Date, Dollar Amount, Account used, and the Spending Type known, **When**: User selects enter Transaction, **When**: User submits data in the box, **Then**: The Transaction will be entered into the application database and populate shown in the overview.
 
 ## Class Diagram
 
