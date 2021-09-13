@@ -80,4 +80,4 @@ Here is our Scrum Board after the last sprint: ![Image of Scrum Board](~link to 
 
 The group communicates via [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software/). We utiluze a Group Chat for frequent discussion and decision-making, and the voice/video-calling capabilities for our weekly standups.
 
-![Image of Budget Buddy Teams Chat](~link to image of Teams~)
+![Image of Budget Buddy Teams Chat](https://i.ibb.co/y5BVY3Z/image.png)
