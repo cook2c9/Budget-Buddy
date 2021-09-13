@@ -31,15 +31,16 @@ You can access our Storyboard [here](~link to actual storyboard~) at Invision.
 
 ## Class Diagram
 
-![Image of Class Diagram](~link to UML diagram~)
+![Image of Class Diagram](https://i.ibb.co/k5GZCLP/Project-UML.png)
 
 ## Class Diagram Description
 
-Activity/Fragment 1:
-
-Activity/Fragment 2:
-
-X...
+- customer: 
+- updateAccount: 
+- paymentInfo: 
+- transaction: 
+- addBankInfo: 
+- addCreditCardInfo: 
 
 ## JSON Schema
 
