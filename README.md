@@ -56,15 +56,20 @@ This is what we plan to export to another application:
 >}
 >
 
-## A Product Backlog
+## Product Backlog / Milestones
 
 Our Product Backlog, or collection of stories can be found [here](https://github.com/marti5a6/Budget-Buddy/projects) in the Projects tab.
 
+Our [Milestones](https://github.com/marti5a6/Budget-Buddy/milestones) are separated by sprint and defined by what we believe we can accomplish with a given time-frame.
+
+Here is what we hope to complete for Milestone #1:
+![Milestone #1](https://i.ibb.co/bR9WzWJ/image.png)
+
 ## Scrum Board
 
-Our [Scrum Board](https://github.com/marti5a6/Budget-Buddy/projects) can be found in the Projects tab, alongside other stories in the product backlog.
+Our [Scrum Board](https://github.com/marti5a6/Budget-Buddy/projects/1) can be found in the Projects tab, alongside other stories in the product backlog and our developmental milestones. 
 
-Here is our Scrum Board after the last sprint: ![Image of Scrum Board](~link to image of scrum board~)
+Here is our Scrum Board after the last sprint: ![Image of Scrum Board](https://i.ibb.co/zrxfPNK/image.png)
 
 ## Scrum Roles
 
