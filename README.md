@@ -14,9 +14,7 @@ Budget Buddy is an application to help track your finances and shape your budget
 
 ## Storyboard (Screen Mockups)
 
-![Images of Storyboard](~link to storyboard image~)
-
-You can access our Storyboard [here](~link to actual storyboard~) at Invision.
+![Images of Storyboard](https://i.ibb.co/TmxW7QV/storyboard.png)
 
 ## Functional Requirements
 
