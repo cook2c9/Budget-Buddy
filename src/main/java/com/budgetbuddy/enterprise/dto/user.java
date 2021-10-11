@@ -3,7 +3,7 @@ package com.budgetbuddy.enterprise.dto;
 import lombok.Data;
 
 public @Data
-class User {
+class user {
     private int userId;
     private String fullName;
     private String email;
